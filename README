@@ -1,0 +1,7 @@
+# JS-Constellation
+
+A JavaScript animation that looks like constellations forming and changing, written in C, compiled with emscripten.
+
+http://rmarcus.info/stars
+
+GPLv3
