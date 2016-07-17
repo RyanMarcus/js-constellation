@@ -24,7 +24,7 @@
 
 #define RAND_RANGE(a, b) (b - ((float)rand() / (float)RAND_MAX)*(b-a))
 #define SIGN(f) (f < 0.0 ? -1 : 1)
-#define LINE_BUFFER_MAX 50
+#define LINE_BUFFER_MAX 100
 
 typedef struct {
     float x;
