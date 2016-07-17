@@ -1,0 +1,24 @@
+{
+  "name": "js-constellation",
+  "version": "1.0.0",
+  "description": "A JS constellation like animation",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanMarcus/js-constellation.git"
+  },
+  "author": "Ryan Marcus <ryan@rmarcus.info>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RyanMarcus/js-constellation/issues"
+  },
+  "homepage": "https://github.com/RyanMarcus/js-constellation#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0",
+    "uglifyjs": "^2.4.10"
+  }
+}

@@ -16,7 +16,11 @@
 // You should have received a copy of the GNU General Public License
 // along with js-constellation.  If not, see <http://www.gnu.org/licenses/>.
 // 
-// { end copyright } 
+// { end copyright }
+
+
+"use strict";
+
 document.addEventListener("DOMContentLoaded", function (event) {
     let m = Module();
     let createSky = m.cwrap("createSky", "number", ["number", "number",
